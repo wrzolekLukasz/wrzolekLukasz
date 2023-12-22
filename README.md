@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=wrzolekLukasz&color=blue&style=for-the-badge&label=I+SEE+YOU&base=1000)
+
 <!--
 **wrzolekLukasz/wrzolekLukasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
