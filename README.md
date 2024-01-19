@@ -12,5 +12,5 @@
 - 💬 Ask me about DevOps, Digital Experiences - or just chat about nothing.
 - 📫 How to reach me: email usually works, but Teams are better 🍻
 - 😄 Pronouns: Me - Myself - and - I 👀
-- ⚡ **Fun fact**: Used to be a fighter, dancer, racer, and ended up as Software Engineer 👾
+- ⚡ **Fun fact**: Used to be a fighter, dancer, sim-racer, and ended up as Software Engineer 👾
 
